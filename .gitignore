@@ -1,0 +1,6 @@
+data/*.csv
+*.RData
+.DS_Store
+.Rhistory
+*.RData*
+topics_image.RDataTmp
